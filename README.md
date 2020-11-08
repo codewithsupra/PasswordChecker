@@ -1,2 +1,3 @@
-# PasswordChecker
-Build a secured password checker which shows you how secure and strong your password is compared to other passwords normally used by users.If the user has a weak password,he is recommended to change his password and use a strong password.
+# Twitter Bot
+Build a twitter bot
+The user  will need to PIP INSTALL tweepy  and also create a twitter API.
